@@ -1,4 +1,4 @@
 GitHub Pull Request Demo!
-Version 1.2
+Version 1.3
 This change was added via a Pull Request but need to accept.
 github is cool.
